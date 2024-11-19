@@ -11,7 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-      },
+        'custom-bg': '#FFDCD1',
+        'line-color': '#E74040',
+        'second-card': '#B9EAA8',
+        'third-card-body': '#23A6F0'
+              },
     },
   },
   plugins: [],
